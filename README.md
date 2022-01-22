@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CwookieDev.
-- 👀 I’m interested in developing Discord Bots.
-- 🌱 I’m currently learning Discord Python.
-- 📫 How to reach me: michaelb@apexcloud.xyz
+- 👀 I'm a Web Developer at SysWeb Corporation.
+- 🌱 I’m currently learning Discord Python & HTML.
+- 📫 How to reach me: michaelb@syswebcorp.com
 
 <!---
 CwookieDev/CwookieDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
